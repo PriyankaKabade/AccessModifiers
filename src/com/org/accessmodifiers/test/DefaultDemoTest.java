@@ -8,7 +8,7 @@ public class DefaultDemoTest {
 		// TODO Auto-generated method stub
 		DefaultDemo defaultDemo = new DefaultDemo();
 
-		System.out.println(defaultDemo.firstNo);
+		//System.out.println(defaultDemo.firstNo);
 
 		System.out.println(defaultDemo.addition());
 
